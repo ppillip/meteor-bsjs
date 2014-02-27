@@ -3,7 +3,7 @@
   "description": "JavaScript lib for DOM, CORE, utility and so on",
   "homepage": "https://github.com/projectBS/bsJS",
   "author": "ppillip <ppillip@gmail.com>",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "https://github.com/ppillip/meteor-bsjs",
   "packages": {}
 }
