@@ -1,0 +1,9 @@
+{
+  "name": "bsjs",
+  "description": "JavaScript lib for DOM, CORE, utility and so on",
+  "homepage": "https://github.com/projectBS/bsJS",
+  "author": " <ppillip@gmail.com> (http://digveloper.ppillip.com)",
+  "version": "0.0.1",
+  "git": "https://github.com/ppillip/meteor-bsjs",
+  "packages": {}
+}
